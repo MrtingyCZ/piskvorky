@@ -1,0 +1,7 @@
+C:\Users\marti\source\repos\piskvorky\piskvorky\bin\Debug\piskvorky.exe.config
+C:\Users\marti\source\repos\piskvorky\piskvorky\bin\Debug\piskvorky.exe
+C:\Users\marti\source\repos\piskvorky\piskvorky\bin\Debug\piskvorky.pdb
+C:\Users\marti\source\repos\piskvorky\piskvorky\obj\Debug\piskvorky.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\piskvorky\piskvorky\obj\Debug\piskvorky.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\piskvorky\piskvorky\obj\Debug\piskvorky.exe
+C:\Users\marti\source\repos\piskvorky\piskvorky\obj\Debug\piskvorky.pdb
